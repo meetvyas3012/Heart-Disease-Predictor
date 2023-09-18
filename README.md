@@ -29,11 +29,3 @@ We welcome contributions from the community to improve and expand this project. 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for detailed information.
-
-## Acknowledgments
-
-We extend our gratitude to the creators of CatBoost and scikit-learn for providing exceptional tools that enable us to build powerful heart disease prediction models.
-
----
-
-Please remember to replace `yourusername` with your actual GitHub username and customize any additional information or links based on your project's specifics. This detailed description provides a comprehensive overview of your project, making it more appealing and informative for potential contributors and users.
